@@ -1,0 +1,4 @@
+*.js linguist-language=ipynb
+*.css linguist-language=ipynb
+*.py linguist-language=ipynb
+*.ipynb linguist-language=ipynb
